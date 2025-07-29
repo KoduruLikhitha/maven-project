@@ -90,7 +90,6 @@
 			<version>4.9</version>
 			<scope>test</scope>
 		</dependency>
-		<dependencies>
   <dependency>
     <groupId>javax.xml.bind</groupId>
     <artifactId>jaxb-api</artifactId>
